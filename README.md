@@ -13,7 +13,7 @@
 ## 📸 Screenshot
 Berikut tampilan websitenya:
 
-![Screenshot 18](ss/screenshot-18.png)
+![Screenshot 18](ss/Screenshot-18.png)
 ![Screenshot 19](ss/screenshot-19.png)
 ![Screenshot 20](ss/screenshot-20.png)
 ![Screenshot 21](ss/screenshot-21.png)
